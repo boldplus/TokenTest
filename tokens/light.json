@@ -1,0 +1,10 @@
+{
+  "pimary": {
+    "value": "{black}",
+    "type": "color"
+  },
+  "secondary": {
+    "value": "{White}",
+    "type": "color"
+  }
+}
